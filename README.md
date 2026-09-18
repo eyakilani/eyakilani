@@ -1,6 +1,6 @@
 # Hi, I'm Eya 👋
 
-*Étudiante Ingénieure Informatique @ ISIMS Sfax*
+*Étudiante Ingénieure Informatique  ISIMS Sfax*
 
 ---
 
