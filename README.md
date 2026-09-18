@@ -52,7 +52,7 @@ const etudiante = {
 
 ### 💼 Stages & expériences professionnelles
 
-**Stage Ouvrier — 3ème année (2026)**
+**Stage d'été — 1ème année CI(2026)**
 Conception et développement d'un site e-commerce pour la gestion des abonnements d'une application SaaS, autour de la plateforme **Clover** (gestion de projet, licences, facturation). Intégration du système de paiement **Stripe** ainsi qu'un backoffice administrateur, le tout développé avec le framework **Laravel**.
 
 **Stage Ouvrier — 2ème année CPI (2025)**
